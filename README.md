@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 <!-- 구분선 -->
 ---
-
-<!-- Hits -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJooeonLee&count_bg=%2367DCD7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <!-- GitHub Status -->
 [![JOOEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooeonLee&include_all_commits=true&theme=React_border=true&count_private=true)](https://github.com/JooeonLee/github-readme-stats)
 
@@ -46,11 +42,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     <!--<img src="https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=black"> -->
     <!--<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> -->
-    <br>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> 
     <br>
 </div><br>
 </div>
