@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=JooeonLee&show_icons=true&theme=react" alt="Jooeon's GitHub stats" height="165"/>
   <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=JooeonLee&layout=compact&theme=react" alt="Jooeon's Top Langs" height="165"/>
+  <br>
+  <a href="https://solved.ac/profile/JooeonLee">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cacophony0609" alt="Jooeon's Baekjoon Tier" height="165"/>
+  </a>
 </div>
 
 <!-- 기술스택 -->
