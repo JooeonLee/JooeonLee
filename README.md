@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- 구분선 -->
 ---
 <!-- GitHub Status -->
-[![JOOEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooeonLee&include_all_commits=true&theme=React_border=true&count_private=true)](https://github.com/JooeonLee/github-readme-stats)]
+[![JOOEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooeonLee&include_all_commits=true&theme=react&count_private=true)](https://github.com/JooeonLee/github-readme-stats)
 
 <!-- 기술스택 -->
 ## 🔨 Once I've used 🔨
