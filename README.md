@@ -14,11 +14,18 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Jooeon!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=51&descAlign=62"/>
+</div>
 
 <!-- 구분선 -->
 ---
 <!-- GitHub Status -->
-[![JOOEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooeonLee&include_all_commits=true&theme=react&count_private=true)](https://github.com/JooeonLee/github-readme-stats)
+
+<div align="center">
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=JooeonLee&show_icons=true&theme=react" alt="Jooeon's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=JooeonLee&layout=compact&theme=react" alt="Jooeon's Top Langs" height="165"/>
+</div>
 
 <!-- 기술스택 -->
 ## 🔨 Once I've used 🔨
