@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header -->
-[![JOOEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooeonLee&include_all_commits=true&theme=react&count_private=true)](https://github.com/JooeonLee/github-readme-stats)
 
 <!-- 구분선 -->
 ---
