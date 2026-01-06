@@ -58,7 +58,6 @@
 </div>
 
 <!-- activity -->
----
 ## 🔥 Activity 🔥
 `2024.09 ~ 2025.08` GDSC Konkuk Server Member
 <br><br>
@@ -69,7 +68,6 @@
 `2022.09 ~ 2023.02` UMC 3기 Server(Spring) Member
 
 <!-- contect -->
----
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/joo_eon55/">
@@ -90,3 +88,25 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cacophony0609" alt="Jooeon's Baekjoon Tier" height="165"/>
   </a>
 </div>
+
+## Hobby
+- 달리기
+- 산 / 클라이밍
+- 코인 노래방
+
+## Slogan
+> **Yesterday you said tomorrow - Just Do It**
+
+<br>
+
+> **기억보단 기록을 - 향로**
+
+## Attitude
+- 대학생 시절 다양한 스터디를 하며 공유를 통한 성장을 경험하며 **공유의 태도**를 중요하게 생각하게 되었습니다.
+- 동아리 교육 운영진을 하며 단체가 함께 성장하는 경험을 하며 지식을 단단하게 다지는 경험을 했습니다.
+
+## Goal
+- 기록하는 습관 만들기
+- 살기위해 달리기
+- 프로젝트 README 완성하기
+- 블로그 만들고 꾸준하게 운영하기
