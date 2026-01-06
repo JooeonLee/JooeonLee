@@ -16,6 +16,7 @@
 - 이때부터 변경에 대해 안전한 코드를 작성하는 것에 관심이 생겼고 이러한 관심은 자연스럽게 테스트에 대한 관심으로 이어졌습니다.
 - TDD를 적용해보기도 하고 테스트 커버리지를 설정하여 설정 커버리지를 만족해야만 빌드되도록 만들어 보기도 했습니다.
 - 이러한 관심은 인턴십 당시 테스트 기반 명세서 작성 자동화라는 성과로 이어져 실제 현업의 개발 생산성 높이는 경험을 했습니다.
+- [마이뷰티](https://daffodil-innocent-4d0.notion.site/2e013ef8bfdd8007a8f4d8fae3819de2?source=copy_link)
 - [🔗MyBeauty Repo](https://github.com/JooeonLee/my-beauty)
 
 ### ⚙️ CI/CD
