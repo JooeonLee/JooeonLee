@@ -30,7 +30,11 @@
 
 <!-- activity -->
 ## 🔥 Activity 🔥
-`2024.09 ~ 2025.08` GDSC Konkuk Server Member
+`2026.07 ~ ing` SSAFY 16기
+<br><br>
+`2025.12 ~ 2026.07` 신한투자증권 프로디지털아카데미 3기
+<br><br>
+`2024.09 ~ 2025.08` Google Developer Group on Konkuk Server Member
 <br><br>
 `2023.09 ~ 2024.02` 건국대학교 KUIT 2기 Server(Spring) 파트장
 <br><br>
