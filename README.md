@@ -30,7 +30,7 @@
 
 <!-- activity -->
 ## 🔥 Activity 🔥
-`2026.07 ~ ing` OSSCA - Apache Zeppelin 멘
+`2026.07 ~ ing` OSSCA - Apache Zeppelin 멘티
 <br><br>
 `2026.07 ~ ing` SSAFY 16기
 <br><br>
